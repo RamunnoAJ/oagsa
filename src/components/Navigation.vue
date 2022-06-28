@@ -13,7 +13,7 @@
           class="hover:text-black ease-in-out duration-300"><i class="fa-brands fa-instagram p-2"></i></a>
       </div>
     </div>
-    <nav class="flex items-center justify-between flex-wrap p-6">
+    <nav class="flex items-center justify-between flex-wrap p-6 container mx-auto">
       <div class="flex items-center flex-shrink-0 mr-6">
         <img class="fill-current w-32 lg:w-48 mr-2" src="../assets/images/logo.png" alt="branding logo">
       </div>
@@ -47,7 +47,7 @@
         </ul>
         <router-link :to="{ name: '' }">
           <div
-            class="flex text-center items-center py-2 px-4 border rounded border-sky-300 bg-sky-300 hover:bg-sky-400 ease-in-out duration-300">
+            class="flex text-xs text-white text-center items-center py-2 px-4 border rounded border-sky-300 bg-sky-300 hover:bg-sky-400 ease-in-out duration-300">
             <i class="fa-solid fa-lock mr-1"></i>
             <p>Login</p>
           </div>
