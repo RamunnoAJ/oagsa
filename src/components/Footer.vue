@@ -3,7 +3,7 @@
     <div class="bg-slate-100 min-h-min py-3 mt-3">
       <div class="max-w-5xl grid gap-4 grid-cols-3 mx-auto justify-items-center">
         <div>
-          <div class="flex items-center flex-shrink-0 mr-6">
+          <div class="flex items-center flex-shrink-0 mr-6 justify-center">
             <img class="fill-current lg:w-32 mr-2" src="../assets/images/logo.png" alt="branding logo">
           </div>
           <div>
