@@ -30,19 +30,19 @@
         :class="{ 'hidden': mobileNav }">
         <ul class="text-md lg:flex-grow font-bold">
           <li class="block mt-4 lg:inline-block lg:mt-0 hover:text-amber-600 mx-4 ease-in-out duration-300">
-            <router-link :to="{ name: 'home' }">Inicio</router-link>
+            <router-link :to="{ name: 'inicio' }">Inicio</router-link>
           </li>
           <li class="block mt-4 lg:inline-block lg:mt-0 hover:text-amber-600 mx-4 ease-in-out duration-300">
-            <router-link :to="{ name: '' }">Empresa</router-link>
+            <router-link :to="{ name: 'empresa' }">Empresa</router-link>
           </li>
           <li class="block mt-4 lg:inline-block lg:mt-0 hover:text-amber-600 mx-4 ease-in-out duration-300">
-            <router-link :to="{ name: '' }">Catalogo</router-link>
+            <router-link :to="{ name: 'catalogo' }">Catalogo</router-link>
           </li>
           <li class="block mt-4 lg:inline-block lg:mt-0 hover:text-amber-600 mx-4 ease-in-out duration-300">
-            <router-link :to="{ name: '' }">Novedades</router-link>
+            <router-link :to="{ name: 'novedades' }">Novedades</router-link>
           </li>
           <li class="block mt-4 lg:inline-block lg:mt-0 hover:text-amber-600 mx-4 ease-in-out duration-300">
-            <router-link :to="{ name: '' }">Contactenos</router-link>
+            <router-link :to="{ name: 'contactenos' }">Contactenos</router-link>
           </li>
         </ul>
         <router-link :to="{ name: '' }">
