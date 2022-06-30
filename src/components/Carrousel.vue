@@ -7,33 +7,36 @@
   delay: 3000,
   disableOnInteraction: false
 }">
-      <swiper-slide class="slide flex justify-around items-center pr-5"><img src="../assets/images/slides/slide-1.png"
-          class="h-80">
-        <p class="text-3xl">REDES SOCIALES</p>
+      <swiper-slide class="slide flex justify-center gap-4 items-center pr-5"><img
+          src="../assets/images/slides/slide-1.png" class="h-40 md:h-60 lg:h-80">
+        <p class="hidden xl:flex xl:flex-col lg:text-2xl xl:text-3xl">REDES SOCIALES</p>
       </swiper-slide>
-      <swiper-slide class="slide flex justify-around items-center pr-5"><img src="../assets/images/slides/slide-2.png"
-          class="h-80">
-        <p class="text-3xl">RALCO <br> <span class="text-base">DISTRIBUIDOR EXCLUSIVO</span> <br> <span
-            class="text-sm">NEUMATICOS DE
+      <swiper-slide class="slide flex justify-center gap-4 items-center pr-5"><img
+          src="../assets/images/slides/slide-2.png" class="h-40 md:h-60 lg:h-80">
+        <p class="hidden xl:flex xl:flex-col lg:text-2xl xl:text-3xl">RALCO <span class="text-base">DISTRIBUIDOR
+            EXCLUSIVO</span> <br> <span class="text-sm">NEUMATICOS DE
             ORIGEN INDIO</span>
         </p>
       </swiper-slide>
-      <swiper-slide class="slide flex justify-around items-center pr-5"><img src="../assets/images/slides/slide-3.png"
-          class="h-80">
-        <p class="text-4xl">LUBRICANTE</p>
+      <swiper-slide class="slide flex justify-center gap-4 items-center pr-5"><img
+          src="../assets/images/slides/slide-3.png" class="h-40 md:h-60 lg:h-80">
+        <p class="hidden xl:flex xl:flex-col lg:text-2xl xl:text-3xl">LUBRICANTE</p>
       </swiper-slide>
-      <swiper-slide class="slide flex justify-around items-center pr-5"><img src="../assets/images/slides/slide-4.png"
-          class="h-80">
-        <p class="text-4xl">NEUMÁTICOS <br> <span class="text-base">AUTOS, CAMIONETAS, CAMIONES...</span></p>
+      <swiper-slide class="slide flex justify-center gap-4 items-center pr-5"><img
+          src="../assets/images/slides/slide-4.png" class="h-40 md:h-60 lg:h-80">
+        <p class="hidden xl:flex xl:flex-col lg:text-2xl xl:text-3xl">NEUMÁTICOS <span class="text-base">AUTOS,
+            CAMIONETAS,
+            CAMIONES...</span></p>
       </swiper-slide>
-      <swiper-slide class="slide flex justify-around items-center pr-5"><img src="../assets/images/slides/slide-5.png"
-          class="h-80">
-        <p class="text-4xl">METRO <br> <span class="text-base">CUBIERTAS BICICLETAS</span></p>
+      <swiper-slide class="slide flex justify-center gap-4 items-center pr-5"><img
+          src="../assets/images/slides/slide-5.png" class="h-40 md:h-60 lg:h-80">
+        <p class="hidden xl:flex xl:flex-col lg:text-2xl xl:text-3xl">METRO <span class="text-base">CUBIERTAS
+            BICICLETAS</span></p>
       </swiper-slide>
-      <swiper-slide class="slide flex justify-around items-center pr-5"><img src="../assets/images/slides/slide-6.png"
-          class="h-80">
-        <p class="text-4xl">METRO <br> <span class="text-base">CAMARAS BICICLETAS</span> <br> <span
-            class="text-sm">VALVULA DE AUTO</span></p>
+      <swiper-slide class="slide flex justify-center gap-4 items-center pr-5"><img
+          src="../assets/images/slides/slide-6.png" class="h-40 md:h-60 lg:h-80">
+        <p class="hidden xl:flex xl:flex-col lg:text-2xl xl:text-3xl">METRO <br> <span class="text-base">CAMARAS
+            BICICLETAS</span> <span class="text-sm">VALVULA DE AUTO</span></p>
       </swiper-slide>
 
     </swiper>
