@@ -10,7 +10,7 @@
             <p class="font-thin text-sm">OSCAR A. GONZALEZ S.A. es una empresa especializada en la importación y
               distribución
               mayorista de
-              repuestos para Ciclomotores, Scooters, Motos, Cuatriciclos y Bicicletas.</p>
+              repuestos para ciclomotores, scooters, motos, cuatriciclos y bicicletas.</p>
           </div>
         </div>
         <div class="flex sm:flex-col justify-center items-center">
