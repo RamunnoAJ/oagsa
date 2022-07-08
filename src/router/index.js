@@ -2,7 +2,6 @@ import { createRouter, createWebHistory } from 'vue-router';
 import HomeView from '../views/HomeView.vue';
 import CompanyView from '../views/CompanyView.vue';
 import CatalogoView from '../views/CatalogoView.vue';
-import NewsView from '../views/NewsView.vue';
 import ContactView from '../views/ContactView.vue';
 
 const router = createRouter({
@@ -22,11 +21,6 @@ const router = createRouter({
       path: '/catalogo',
       name: 'catalogo',
       component: CatalogoView,
-    },
-    {
-      path: '/novedades',
-      name: 'novedades',
-      component: NewsView,
     },
     {
       path: '/contactenos',

@@ -39,9 +39,6 @@
             <router-link :to="{ name: 'catalogo' }">Catalogo</router-link>
           </li>
           <li class="block mt-4 lg:inline-block lg:mt-0 hover:text-amber-600 mx-4 ease-in-out duration-300">
-            <router-link :to="{ name: 'novedades' }">Novedades</router-link>
-          </li>
-          <li class="block mt-4 lg:inline-block lg:mt-0 hover:text-amber-600 mx-4 ease-in-out duration-300">
             <router-link :to="{ name: 'contactenos' }">Contactenos</router-link>
           </li>
         </ul>
